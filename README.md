@@ -1,5 +1,5 @@
 # AI-Change-Impact-Analyzer
-#### AI-assisted decision support for organizational change impact analysis, risk identification, and structured action planning using the CIRA framework.
+##### AI-assisted decision support for organizational change impact analysis, risk identification, and structured action planning using the CIRA framework.
 
 ## Overview
 Organizational changes rarely affect a single process or system. A seemingly small change can create downstream impacts across people, workflows, applications, data, documentation, and interconnected dependencies. Identifying these ripple effects often requires manual investigation across fragmented information, making impact analysis time-consuming, difficult to scale, and vulnerable to overlooked dependencies.
@@ -21,5 +21,4 @@ The product is designed to augment—not replace—professional judgment. AI-gen
 ## Product Direction
 The initial focus is to establish a reliable core workflow, define structured outputs, and evaluate the quality and usefulness of AI-generated findings. Future development can explore richer organizational context, persistence, and integrations based on validation and user needs.
 
-_This project explores how AI can improve the consistency, visibility, and usability of change impact analysis. The proposed capabilities and benefits are product objectives, not claims of validated production performance.
-_
+_This project explores how AI can improve the consistency, visibility, and usability of change impact analysis. The proposed capabilities and benefits are product objectives, not claims of validated production performance._
